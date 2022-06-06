@@ -1,0 +1,37 @@
+body, h2 {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 85px;
+}
+
+.menu-nav {
+    display: flex;
+    gap: 16px;
+}
+
+.banner {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 85px;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.kata {
+    width: 500px;
+    height: 200px;
+}
+
+.kata h1 {
+    font-size: 4em;
+}
+
+.banner img {
+    font-size: 4em;
+}
